@@ -1,0 +1,14 @@
+- <h3 style="color: red">community for long-form content</h3>
+- trying to make logseq both private and public which is more open, shareable and searchable keeping all privacy and security, access through all devices online and offline.
+- <h3 style="color: red">problem</h3>
+	- student's are not going to put academic notes here.
+	- author will choose famous websites/publications to publish their blogs.
+		- why would they throw their well written, planned content in my app?
+	- There are already enough apps to put their ideas and content.
+	- why there is a need to have blog and note system in one platform?
+		- is it necessary to post their content in the same site where it was prepared?
+- <h3 style="color: red">first place</h3>
+	- students will use this as a Note app.
+	- this should impress the student to use it further.
+	- motivate to prepare note for others mean public sharing, contribution.
+	- worth sharing the experience.

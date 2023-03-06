@@ -1,0 +1,2 @@
+- [[noteapp/research/bing]]
+- [[noteapp/myIdea]]

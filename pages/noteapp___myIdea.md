@@ -1,0 +1,53 @@
+- [[noteapp/myIdea/core]]
+- user can able to create notes that has a support for handwriting, math and science also bi-directional links, backlinks, and outliner.
+- few more things about note features:
+	- user can create another page just by wrapping the word by double square brackects i.e. [[]];
+	- sometimes author want to give a short definition for the term without redirecting to the whole page dedicated for that term. For that author wants to open a modal box with the definition or anything about that term when clicked. So, there is a feature for that when author wraps the word inside double Parentheses, a new block similar to page will be created for that term, there author can put any information. Finally when reader click that particular term modal box open with information inside. Also author can reuse this block for this term in different notes by creating multiple definitions and selecting a particular definition for particular note/blog.
+	- when a author wrap words inside double Angle brackets, a blog template will open, here author can create a whole blog with title, description and many more.
+	-
+- This note front interface looks like daily journal - where dates as title below that a space for note are arranged in descending order of date i.e. starting from today's date to scrolling down to the date where your first note was created.
+- Their created note can be shared publicy-which will be ranked in google search and other different search engines, individually, link wise and also can be full private.
+- Private ntoes are fully encrypted that is 100% privacy and secured.
+- Public notes/blog are websites on their own. Reader can highly customize the public note/blog e.g, HIghlight, add comments, add or remove words of the blog. Edited notes and their details will be recorded in their private note which makes it easier to find and access it later.
+- While searching they can enable/disable private only or public only or both.
+- User can create group note project where they can work in collaboration. Here, bi-directional links and backlinks are taken out as table of contents, there by creating easy navigation.
+- Author can design an interactive course for their students and share accordingly.
+- In there public notes also they can have a private blocks of contents.
+- When user search but didn't find anything then we try to motivate or inspire user to contribute notes for that term and make it public.
+- while author publishing note has to give some sort of heirarchial info e.g, Nepal/MBBS/1st year/Anatomy/Microanatomy. On the basis of this we try to figure out where this note eactly belongs in the heirarchy/branch.
+- when user navigate to the public note, we provide heirarchial figure which help user to easily navigate around the related note.
+- All the public notes are user contributions but when other users really find those notes helpful that contributor uplift to author and the note from the author will be in top over the contributors notes. As authors also has to veirfy they are authentic.
+- user can follow the contributor as well as author.
+-
+- **additional**:
+	- Here, while author having access to best Note taking system, able to create own web of Notes privately and from there could publish notes in public which will be ranked in google or search engines. Public Notes are non-different than websites. Everything private and public Notes are well organized and tracked, easy to follow up.
+	- While publishing note, author has to provide the heirarchy
+		- in the slash format eg, A/B/C, here every word before and after slash are treated as node or branch located in a particular location in the heirarchy
+	- of where that note exactly belong. That makes reader easy to find their branch of topic, so that reader stay focus inside the particular branch. Moreover, the branching of their private note and public note might be different.
+	- Reader also has access to our Note taking system where they can create their own web of Notes. Reader can Highlight or highly customize any public notes/blogs in their own way, this also tracked and managed in their Note taking system, later easy to find and follow up.
+	- While reader reading other blogs/notes and working on their private note, they can also publish any note to public, that makes them contributor. But their contributed note/blog is not shown in top of search as they are not verified author. Verifying themselves uplift to author.
+	- User can follow both contributor and author.
+-
+-
+-
+- ## problems
+	- Nobody is going to type thier academic notes on app.
+-
+-
+- I also want this app used by professors, researchers and scientists. What features should I built to make them use my app?
+	- 1.  Support for LaTeX: Many researchers and scientists use LaTeX to write papers and reports. Including support for LaTeX in your app would make it more attractive to this group.
+	- 2.  Reference management: An important aspect of academic research is managing references. You could add a feature that allows users to easily manage and insert references in their notes.
+	- 3.  Collaboration tools: Researchers and scientists often work in teams, so adding collaboration tools such as real-time editing and commenting would be useful.
+	- 4.  Advanced search capabilities: Academic research often involves finding specific information in large amounts of data. Advanced search capabilities, such as the ability to search by date range or specific fields, would be helpful.
+	- 5.  Integration with academic databases: Many academic researchers use specialized databases for their research. Integrating your app with these databases would be a valuable feature.
+	- 6.  Integration with citation tools: Many academic researchers use citation tools such as Zotero or Mendeley. Integrating your app with these tools would make it easier for researchers to manage their citations.
+	- 7.  Data visualization: Scientists often work with large datasets and visualizations can be a powerful tool for understanding complex information. You could consider adding data visualization capabilities to your app.
+-
+- # additional features to considered
+	- 1.  Integration with other apps: Many users rely on other apps to create content such as images, videos, and audio recordings. Providing integrations with these apps can enhance the app's functionality and make it easier for users to create comprehensive notes.
+	- 2.  Templates: Providing templates for different types of notes, such as meeting notes, lecture notes, or project notes, can save time for users and ensure consistency in formatting.
+	- 3.  Audio and Video Transcription: Some users may prefer to dictate their notes, record audio or video, and have the app automatically transcribe the content into text. This can be a helpful feature for users who are unable to type, or for those who want to save time.
+	- 4.  Reminders and Notifications: Including the ability to set reminders and notifications for notes can be helpful for users who need to remember specific tasks or deadlines associated with their notes.
+	- 5.  Artificial Intelligence and Machine Learning: Using AI and machine learning to suggest related notes, provide personalized recommendations, or automatically tag notes based on content can make the app more intuitive and easier to use.
+	- 6.  Offline Access: Providing the ability to access notes offline can be a useful feature for users who may not have consistent internet access or who prefer not to store their notes in the cloud.
+	- 7.  Collaboration Features: Enhancing the collaboration features to include real-time editing and commenting, version control, and permission levels can make the app more appealing to businesses and academic groups.

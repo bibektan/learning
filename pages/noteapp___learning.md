@@ -1,0 +1,4 @@
+- GraphQL
+- Typescript
+- State Management
+- Next js

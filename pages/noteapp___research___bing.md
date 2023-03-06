@@ -1,0 +1,34 @@
+- # some of the problems that users face in note-taking apps are:
+	- They are not effective for learning and studying, as they encourage passive and superficial note-taking, rather than active and deep learning.
+	- They are slow, buggy, or unreliable, as they may crash, freeze, or go offline unexpectedly, causing frustration and inconvenience for users.
+	- They are not good for handwriting, math, or science, as they may not support stylus input, equations, diagrams, or symbols, limiting the expressiveness and clarity of notes.
+	- They are not good for active recall and spaced repetition, as they may not have features that allow users to test their memory, review their notes, or schedule their repetitions, enhancing the retention and recall of information.
+	- They are not good for privacy and security, as they may store users’ data on cloud servers, share users’ data with third parties, or expose users’ data to hackers, compromising the confidentiality and integrity of notes.
+	-
+- ### Therefore, some of the features that a new app could have to solve these problems are:
+	- It could provide guidance and feedback on how to take effective notes, such as using the Cornell method, the Feynman technique, or the SQ3R method, to help users learn and understand the material better.
+	- It could be fast, stable, and reliable, as it would have a robust and optimized code, a backup and recovery system, and an offline mode, to ensure users’ satisfaction and convenience.
+	- It could support handwriting, math, and science, as it would have a stylus input, an equation editor, a diagram tool, and a symbol library, to enable users to express and communicate their ideas clearly.
+	- It could facilitate active recall and spaced repetition, as it would have a quiz generator, a flashcard maker, a review planner, and a progress tracker, to help users remember and apply their knowledge better.
+	- It could protect privacy and security, as it would have a local storage option, a data encryption feature, a user consent policy, and a security audit, to safeguard users’ data and trust.
+	-
+	-
+	-
+- # some of the problems that users are facing on those apps are:
+	- [Notion: Notion is a beautiful and powerful note-taking app that has a database feature, but it also has some drawbacks, such as being slow, having a steep learning curve, lacking a good mobile app, not supporting handwriting or drawing, not having a good search function, and being expensive for some users](https://www.axton.blog/notion-vs-roam-vs-obsidian-vs-logseq-vs-workflowy-which-one-is-better-for-book-note/)[1](https://www.axton.blog/notion-vs-roam-vs-obsidian-vs-logseq-vs-workflowy-which-one-is-better-for-book-note/).
+	- [Obsidian: Obsidian is a versatile and customizable note-taking app that works with local Markdown files, but it also has some limitations, such as being complex, having a cluttered interface, not having a web or mobile app, not supporting collaboration or sharing, and not having a good database feature](https://www.axton.blog/notion-vs-roam-vs-obsidian-vs-logseq-vs-workflowy-which-one-is-better-for-book-note/)[1](https://www.axton.blog/notion-vs-roam-vs-obsidian-vs-logseq-vs-workflowy-which-one-is-better-for-book-note/)[2](https://hub.logseq.com/integrations/aV9AgETypcPcf8avYcHXQT/how-to-use-obsidian-and-logseq-together-and-why-a-markdown-backend-matters/1rqp92wgow7wGXS37Ckz1U).
+	- [Logseq: Logseq is a promising and innovative note-taking app that supports bi-directional links and outliner, but it also has some challenges, such as being in beta, having a buggy performance, not having a good database feature, not supporting handwriting or drawing, and not having a good search function](https://www.axton.blog/notion-vs-roam-vs-obsidian-vs-logseq-vs-workflowy-which-one-is-better-for-book-note/)[1](https://www.axton.blog/notion-vs-roam-vs-obsidian-vs-logseq-vs-workflowy-which-one-is-better-for-book-note/)[3](https://zapier.com/blog/notion-vs-onenote/).
+	- OneNote: OneNote is a popular and reliable note-taking app that supports handwriting and drawing, but it also has some issues, such as being slow, having a rigid structure, not supporting bi-directional links or backlinks, not having a good database feature, and not having a good sync function.
+	- Evernote: Evernote is a classic and widely used note-taking app that has a good search function, but it also has some problems, such as being outdated, having a poor design, not supporting bi-directional links or backlinks, not having a good database feature, and being expensive for some users.
+	- Apple Notes: Apple Notes is a simple and convenient note-taking app that works well with Apple devices, but it also has some disadvantages, such as being basic, not supporting bi-directional links or backlinks, not having a good database feature, and not being compatible with other platforms.
+	-
+- ### Therefore, some of the features that a new app could have to solve these problems are:
+	- It could be fast, stable, and reliable, as it would have a robust and optimized code, a backup and recovery system, and an offline mode, to ensure users’ satisfaction and convenience.
+	- It could be simple, intuitive, and elegant, as it would have a user-friendly and attractive interface, a gentle learning curve, and a consistent design, to enhance users’ experience and enjoyment.
+	- It could be versatile, customizable, and extensible, as it would have a flexible and modular structure, a rich and diverse set of features, and a supportive and active community, to enable users’ creativity and productivity.
+	- It could support handwriting, drawing, math, and science, as it would have a stylus input, a sketch tool, an equation editor, and a diagram tool, to allow users to express and communicate their ideas clearly.
+	- It could support bi-directional links, backlinks, and outliner, as it would have a graph view, a link panel, and a bullet list, to help users to organize and connect their notes effectively.
+	- It could support collaboration and sharing, as it would have a web and mobile app, a sync and export function, and a permission and privacy feature, to help users to work and learn with others efficiently.
+	- It could support database and search, as it would have a table and gallery view, a filter and sort function, and a query and formula feature, to help users to manage and access their data easily.
+	- It could support active recall and spaced repetition, as it would have a quiz generator, a flashcard maker, a review planner, and a progress tracker, to help users to remember and apply their knowledge better.
+	- It could be affordable and accessible, as it would have a reasonable and transparent pricing model, a generous and flexible free plan, and a compatible and inclusive platform, to help users to afford and access the app without barriers.

@@ -1,0 +1,7 @@
+- possible technology
+	- fabric, pixi js
+- possible features
+	- kanban boards
+- [[noteapp/relatedApps]]
+- [[noteapp/thinking]]
+- [[noteapp/learning]]

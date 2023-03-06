@@ -1,0 +1,1 @@
+- kothama eklai, basdai, kurai sochdai ma

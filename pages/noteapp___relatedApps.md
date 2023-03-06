@@ -1,0 +1,8 @@
+- Notion
+	- problems
+		- I can build a habit tracker in Notion. But it won’t be as good as a dedicated habit tracker. I can build a task manager, but it won’t be as effective a dedicated app. Etc Etc
+		- And, with everything in Notion, finding things becomes tricky — especially with quick search.
+		- Notion doesn’t know that something is a task or a project or habit or an article or a note or notebook.
+		- Everything is just a page and if everything is in Notion, the number of search results will increase and increase. So finding anything will take longer and longer.
+	- reddit
+		- Problem with Notion Web Clipper
